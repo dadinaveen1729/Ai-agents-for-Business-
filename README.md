@@ -2,19 +2,11 @@
 
 > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-[![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/msitarzewski)
-[![Download the app](https://img.shields.io/github/v/release/msitarzewski/agency-agents-app?label=Download%20app&color=2563eb)](https://github.com/msitarzewski/agency-agents-app/releases/latest)
 
-> ### 🆕 There's an app now
->
-> **[Agency Agents](https://agencyagents.app)** is a native app for **macOS, Linux & Windows** that browses the entire roster and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates.
->
-> **→ [Download the latest release](https://github.com/msitarzewski/agency-agents-app/releases/latest) · [agencyagents.app](https://agencyagents.app)**
 
-> Maintained by **Naveen Dadi** (Boost Oxygen). Based on [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (MIT License).
+
+>
+> Maintained by **Naveen Dadi** (Boost Oxygen). 
 
 ---
 
@@ -33,19 +25,8 @@ Born from a Reddit thread and months of iteration, **The Agency** is a growing c
 
 ## ⚡ Quick Start
 
-### Option 1: Install the app (Recommended)
 
-The fastest way in — no clone, no terminal. [**Agency Agents**](https://agencyagents.app) is a native desktop app (macOS · Linux · Windows) that browses the whole roster and installs agents into Claude Code, Cursor, Codex, Gemini CLI, OpenCode, Qwen, and Osaurus for you, then keeps them up to date.
-
-**[⬇ Download the latest release](https://github.com/msitarzewski/agency-agents-app/releases/latest)** — or on a Mac:
-
-```bash
-brew install --cask msitarzewski/agency-agents/agency-agents
-```
-
-Prefer the command line? The script-based options below install the same agents.
-
-### Option 2: Use with Claude Code
+ Use with Claude Code
 
 ```bash
 # Install all agents to your Claude Code directory
@@ -58,7 +39,7 @@ cp engineering/*.md ~/.claude/agents/
 # "Hey Claude, activate Frontend Developer mode and help me build a React component"
 ```
 
-### Option 3: Use as Reference
+### Option 2: Use as Reference
 
 Each agent file contains:
 - Identity & personality traits
@@ -68,7 +49,7 @@ Each agent file contains:
 
 Browse the agents below and copy/adapt the ones you need!
 
-### Option 4: Use with Other Tools (GitHub Copilot, Antigravity, Gemini CLI, OpenCode, OpenClaw, Cursor, Aider, Windsurf, Kimi Code, Codex, Osaurus, Hermes, Mistral Vibe, DeepSeek Harness)
+### Option 3: Use with Other Tools (GitHub Copilot, Antigravity, Gemini CLI, OpenCode, OpenClaw, Cursor, Aider, Windsurf, Kimi Code, Codex, Osaurus, Hermes, Mistral Vibe, DeepSeek Harness)
 
 ```bash
 # Step 1 -- generate integration files for all supported tools
@@ -674,7 +655,7 @@ We welcome contributions! Here's how you can help:
 
 ### Share Your Success Stories
 
-Have you used these agents successfully? Share your story in the [Discussions](https://github.com/msitarzewski/agency-agents/discussions)!
+Have you used these agents successfully? Share your story in the [Discussions]
 
 ---
 
@@ -1005,7 +986,6 @@ See [integrations/openclaw/README.md](integrations/openclaw/README.md) for detai
 
 SubAgents are installed to `.qwen/agents/` in your project root (project-scoped).
 
-> Requires Qwen Code 0.25.1 or later. Earlier releases can't launch agents whose code examples contain `${…}` placeholders ([#1081](https://github.com/msitarzewski/agency-agents/issues/1081)).
 
 ```bash
 # Convert and install (run from your project root)
@@ -1158,8 +1138,8 @@ To everyone who has opened a PR, filed an issue, started a Discussion, or simply
 
 ## 💬 Community
 
-- **GitHub Discussions**: [Share your success stories](https://github.com/msitarzewski/agency-agents/discussions)
-- **Issues**: [Report bugs or request features](https://github.com/msitarzewski/agency-agents/issues)
+- **GitHub Discussions**: [Share your success stories][(https://github.com/dadinaveen1729/Ai-agents-for-Business-](https://github.com/dadinaveen1729/Ai-agents-for-Business-)/discussions)
+- **Issues**: [Report bugs or request features][https://github.com/dadinaveen1729/Ai-agents-for-Business-](https://github.com/dadinaveen1729/Ai-agents-for-Business-)/issues)
 - **Reddit**: Join the conversation on r/ClaudeAI
 - **Twitter/X**: Share with #TheAgency
 
@@ -1179,7 +1159,7 @@ To everyone who has opened a PR, filed an issue, started a Discussion, or simply
 
 **🎭 The Agency: Your AI Dream Team Awaits 🎭**
 
-[⭐ Star this repo](https://github.com/msitarzewski/agency-agents) • [🍴 Fork it](https://github.com/msitarzewski/agency-agents/fork) • [🐛 Report an issue](https://github.com/msitarzewski/agency-agents/issues) • [❤️ Sponsor](https://github.com/sponsors/msitarzewski)
+[⭐ Star this repo](https://github.com/dadinaveen1729/Ai-agents-for-Business-) • [🍴 Fork it](https://github.com/dadinaveen1729/Ai-agents-for-Business-/fork) • [🐛 Report an issue](https://github.com/dadinaveen1729/Ai-agents-for-Business-/issues) • [❤️ Sponsor](https://github.com/dadinaveen1729)
 
 Made with ❤️ by the community, for the community
 
