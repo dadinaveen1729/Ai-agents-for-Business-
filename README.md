@@ -14,6 +14,8 @@
 >
 > **→ [Download the latest release](https://github.com/msitarzewski/agency-agents-app/releases/latest) · [agencyagents.app](https://agencyagents.app)**
 
+> Maintained by **Naveen Dadi** (Boost Oxygen). Based on [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (MIT License).
+
 ---
 
 ## 🚀 What Is This?
